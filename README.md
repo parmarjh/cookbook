@@ -93,4 +93,4 @@ Beyond the code examples here, you can learn about the AssemblyAI API from the f
 - [Follow us on X](https://twitter.com/AssemblyAI)
 
 ***
-If you have any questions, please feel free to reach out to our Support team - support@assemblyai.com!
+If you have any questions, please feel free to reach out to our Support team - parmarjatin4911@gmail.com!

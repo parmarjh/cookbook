@@ -115,11 +115,11 @@ print(response.result)
 
 | SDK | Language | Docs |
 |------|-----------|------|
-| 🐍 Python | [assemblyai-python-sdk](#) | [Docs →](#) |
-| 💻 JavaScript | [assemblyai-js-sdk](#) | [Docs →](#) |
-| ☕ Java | [assemblyai-java-sdk](#) | [Docs →](#) |
-| 🐹 Golang | [assemblyai-go-sdk](#) | [Docs →](#) |
-| 💎 Ruby | [assemblyai-ruby-sdk](#) | [Docs →](#) |
+| 🐍 Python | [assemblyai-python-sdk](assemblyai-python-sdk) | [Docs →](#) |
+| 💻 JavaScript | [assemblyai-js-sdk](assemblyai-js-sdk) | [Docs →](#) |
+| ☕ Java | [assemblyai-java-sdk](assemblyai-js-sdk) | [Docs →](#) |
+| 🐹 Golang | [assemblyai-go-sdk](assemblyai-go-sdk) | [Docs →](#) |
+| 💎 Ruby | [assemblyai-ruby-sdk](assemblyai-ruby-sdk) | [Docs →](#) |
 
 ---
 

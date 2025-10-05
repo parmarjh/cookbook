@@ -1,5 +1,5 @@
 # AssemblyAI Cookbook 🧑‍🍳
-The AssemblyAI Cookbook is a resource of code examples, guides, and tutorials for using the AssemblyAI API. Want to learn more about AssemblyAI? Check out this [product overview video](https://youtu.be/UT1sBCuSJxE)!
+The AssemblyAI Cookbook is a resource of code examples, guides, and tutorials for using the AssemblyAI API. Want to learn more about AssemblyAI? Check out this [product overview video](https://www.youtube.com/@funinaiofficial)!
 
 You will need an AssemblyAI account and API key to use these code examples. [Click here](https://www.assemblyai.com/dashboard/signup) to create and account for free.
 
